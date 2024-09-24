@@ -1,2 +1,2 @@
 Environment = "terraformChamps"
-Owner       = "MORAGAP"
+owner       = "MORAGAP"
